@@ -24,41 +24,51 @@ Desde os 14 anos, mergulhei no universo da programação e, aos **17**, sigo evo
 
 ## ⚙️ Minhas Stacks
 
-### 🖥️ Front-end
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-  <img src="https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-121212?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-</p>
+### Front-end
+<div align="center">
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+</div>
 
 ---
 
-### 🧩 Back-end
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=node.js&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/Express-121212?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fastify-121212?style=for-the-badge&logo=fastify&logoColor=white"/>
-</p>
+### Back-end
+<div align="center">
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg"/>
+</div>
 
 ---
 
-### 🗄️ Banco de Dados
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-121212?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-  <img src="https://img.shields.io/badge/Firebase-121212?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-  <img src="https://img.shields.io/badge/Supabase-121212?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
-</p>
+### Databases & Services
+<div align="center">
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"/>
+</div>
 
 ---
 
-### 🎨 UI / UX & Design
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-121212?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
-  <img src="https://img.shields.io/badge/UI%2FUX-121212?style=for-the-badge&logo=adobe&logoColor=white"/>
-</p>
+### UI / UX & Tooling
+<div align="center">
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true"/>
+</div>
 
 ---
 
@@ -83,13 +93,6 @@ Construir aplicações **escaláveis e bem estruturadas**, evoluir como **Full S
 
 ## 📫 Contato
 
-- GitHub: https://github.com/seu-usuario
-- Email: seuemail@email.com
+- Email: luisfelipe92088@gmail.com
 
----
 
-<div align="center">
-
-⭐ **Se algum projeto te ajudou, considere deixar uma estrela!** ⭐
-
-</div>
