@@ -77,7 +77,9 @@ Busco uma oportunidade como **Desenvolvedor Full Stack**, onde eu possa contribu
 
 ## 📫 Contato
 
-📧 **Email:** luisfelipe92088@gmail.com
+**Email:** luisfelipe92088@gmail.com
+**Portifolio:** https://ls-sportifolio.vercel.app/
+**tiktok:** https://www.tiktok.com/@ls.sites
 
 ---
 
