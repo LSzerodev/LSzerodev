@@ -90,10 +90,6 @@ Construir aplicações **escaláveis e bem estruturadas**, evoluir como **Full S
 
 ---
 
-## 📫 Contato
-
-- Email: luisfelipe92088@gmail.com
-
 <div align="center">
 
 ⭐ **Aberto a oportunidades profissionais** ⭐  
