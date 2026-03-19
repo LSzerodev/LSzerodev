@@ -5,18 +5,18 @@
 ### Desenvolvedor Full Stack
 
 <p>
-  Crio aplicações web modernas, escaláveis e bem estruturadas, com foco em
+  Crio aplicações web, escaláveis e bem estruturadas, com foco em
   performance, arquitetura e experiência do usuário.
 </p>
 
 <p>
-  <a href="https://ls-sportifolio.vercel.app/">
+  <a href="my-links-beta-orpin.vercel.app">
     <img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:luisfelipe92088@gmail.com">
     <img src="https://img.shields.io/badge/Email-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/lsflps">
+  <a href="https://www.linkedin.com/in/lsfllps/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -32,7 +32,6 @@
 - 💻 Desenvolvedor **Full Stack**
 - 📚 Estudo programação desde os **14 anos**
 - 🧠 Foco em **lógica, arquitetura, performance e boas práticas**
-- 🚀 Interesse em **SaaS, produtos digitais e aplicações escaláveis**
 - 📈 Evoluindo constantemente por meio de **projetos práticos e estudo contínuo**
 
 ---
@@ -77,36 +76,9 @@
 
 ---
 
-## 🚀 Projetos em destaque
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🛒 E-commerce Games</h3>
-      <p>Projeto de e-commerce com foco em responsividade, organização de componentes, carrinho de compras e experiência do usuário.</p>
-    </td>
-    <td width="50%">
-      <h3>📖 Quiz Bible</h3>
-      <p>Aplicação interativa com foco em lógica, manipulação de estado e interface limpa para melhor experiência do usuário.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>💼 Portfólio</h3>
-      <p>Portfólio pessoal com foco em design moderno, apresentação profissional e navegação responsiva.</p>
-    </td>
-    <td width="50%">
-      <h3>🕷️ SpiderMan GSAP</h3>
-      <p>Landing page animada com GSAP, priorizando impacto visual, transições fluidas e atenção aos detalhes.</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🎯 Objetivo profissional
 
-Busco uma oportunidade como **Desenvolvedor Full Stack** para contribuir com código de qualidade, participar da construção de produtos digitais e SaaS, colaborar com times e continuar evoluindo tecnicamente em um ambiente profissional.
+Busco uma oportunidade como **Desenvolvedor Full Stack** para contribuir com código de qualidade, participar da construção, colaborar com times e continuar evoluindo tecnicamente em um ambiente profissional.
 
 ---
 
@@ -117,10 +89,10 @@ Busco uma oportunidade como **Desenvolvedor Full Stack** para contribuir com có
 <a href="mailto:luisfelipe92088@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-202020?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://ls-sportifolio.vercel.app/">
+<a href="https://my-links-beta-orpin.vercel.app/">
   <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/lsflps">
+<a href="https://www.linkedin.com/in/lsfllps/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
