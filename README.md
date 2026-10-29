@@ -13,10 +13,6 @@ Tenho desenvolvido projetos práticos com foco em arquitetura, performance, orga
 
 Se quiser ver mais do que construo, meu **portfólio** e meu **LinkedIn** estão aqui:
 
-- [Portfólio](https://my-links-beta-orpin.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/lsfllps/)
-- [Email](mailto:luisfelipe92088@gmail.com)
-
 ## Informações rápidas:
 
 - Estudo programação desde os **14 anos**
